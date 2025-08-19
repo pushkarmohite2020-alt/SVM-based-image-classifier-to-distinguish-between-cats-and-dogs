@@ -1,0 +1,2 @@
+# SVM-based-image-classifier-to-distinguish-between-cats-and-dogs
+✔ Trained a Linear SVM classifier from scratch ✔ Preprocessed images (resizing, grayscale conversion) for feature extraction ✔ Achieved classification metrics (accuracy, precision, recall) ✔ Visualized predictions with sample test images 📊 Results: Accuracy: 66% (with room for improvement!) Explored challenges in raw pixel-based classification
